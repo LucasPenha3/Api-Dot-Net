@@ -36,6 +36,7 @@ namespace Template.IOC
             services.AddTransient<ITaskRepository, TaskRepository>();
 
             services.AddTransient<ITaskQuery, TaskQuery>();
+            services.AddTransient<IHealthzQuery, HealthzQuery>();
 
             // handlers
             services.AddTransient<IHandler<CreateTaskCommand>, CreateTaskHandler>();

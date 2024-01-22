@@ -41,11 +41,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Balta.io\\template\\Template.Domain\\Template.Domain.csproj",
+      "projectUniqueName": "C:\\Balta.io\\Api-Dot-Net\\Template.Domain\\Template.Domain.csproj",
       "projectName": "Template.Domain",
-      "projectPath": "C:\\Balta.io\\template\\Template.Domain\\Template.Domain.csproj",
+      "projectPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Domain\\Template.Domain.csproj",
       "packagesPath": "C:\\Users\\luksf\\.nuget\\packages\\",
-      "outputPath": "C:\\Balta.io\\template\\Template.Domain\\obj\\",
+      "outputPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBsz7J5F4fg5QSbp1CDQyHtKmcg/gDO/We1UrS1se47VJt29frFLLCOBVYN2so1wXfHkaBGBQl/IMjnlxz0Nqw==",
+  "dgSpecHash": "eSpuldf1+ZH7bGxHNDYDA2ovJO1xFNkIVhrKdwXp7VbuWoDuU9Wpq59s6rQTqUItghSPvmquMyJbJfBE0eYwyg==",
   "success": true,
-  "projectFilePath": "C:\\Balta.io\\template\\Template.Tests\\template.Tests.csproj",
+  "projectFilePath": "C:\\Balta.io\\Api-Dot-Net\\Template.Tests\\template.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luksf\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\luksf\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",

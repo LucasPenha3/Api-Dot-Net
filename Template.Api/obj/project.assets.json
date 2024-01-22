@@ -2779,11 +2779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Balta.io\\template\\Template.Api\\template.Api.csproj",
+      "projectUniqueName": "C:\\Balta.io\\Api-Dot-Net\\Template.Api\\template.Api.csproj",
       "projectName": "template.Api",
-      "projectPath": "C:\\Balta.io\\template\\Template.Api\\template.Api.csproj",
+      "projectPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Api\\template.Api.csproj",
       "packagesPath": "C:\\Users\\luksf\\.nuget\\packages\\",
-      "outputPath": "C:\\Balta.io\\template\\Template.Api\\obj\\",
+      "outputPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2806,14 +2806,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Balta.io\\template\\Template.Domain\\Template.Domain.csproj": {
-              "projectPath": "C:\\Balta.io\\template\\Template.Domain\\Template.Domain.csproj"
+            "C:\\Balta.io\\Api-Dot-Net\\Template.Domain\\Template.Domain.csproj": {
+              "projectPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Domain\\Template.Domain.csproj"
             },
-            "C:\\Balta.io\\template\\Template.Infra\\template.Infra.csproj": {
-              "projectPath": "C:\\Balta.io\\template\\Template.Infra\\template.Infra.csproj"
+            "C:\\Balta.io\\Api-Dot-Net\\Template.Infra\\template.Infra.csproj": {
+              "projectPath": "C:\\Balta.io\\Api-Dot-Net\\Template.Infra\\template.Infra.csproj"
             },
-            "C:\\Balta.io\\template\\Template.IOC\\Template.IOC.csproj": {
-              "projectPath": "C:\\Balta.io\\template\\Template.IOC\\Template.IOC.csproj"
+            "C:\\Balta.io\\Api-Dot-Net\\Template.IOC\\Template.IOC.csproj": {
+              "projectPath": "C:\\Balta.io\\Api-Dot-Net\\Template.IOC\\Template.IOC.csproj"
             }
           }
         }

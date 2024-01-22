@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDtq2ytzbtFQg3k0ZRfnpsUENmZoqLp58G52L4eIAXhBsH3qv10DXiCqkWh6Eiale+kLGhMJEBjdsgFFOQA8XQ==",
+  "dgSpecHash": "N9nT6h0W+C3bU6W4BeCew3fcfk6bfhG7TBqdMRnUUshBpyEepDdYrdcM9hsPgbedVhi7TnTrSsNcFOaPSzB6IA==",
   "success": true,
-  "projectFilePath": "C:\\Balta.io\\template\\Template.IOC\\Template.IOC.csproj",
+  "projectFilePath": "C:\\Balta.io\\Api-Dot-Net\\Template.IOC\\Template.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luksf\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\luksf\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
