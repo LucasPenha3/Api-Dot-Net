@@ -1,0 +1,12 @@
+C:\Balta.io\template\Template.Domain\bin\Debug\net6.0\Template.domain.deps.json
+C:\Balta.io\template\Template.Domain\bin\Debug\net6.0\Template.domain.dll
+C:\Balta.io\template\Template.Domain\bin\Debug\net6.0\Template.domain.pdb
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.csproj.AssemblyReference.cache
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.AssemblyInfoInputs.cache
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.AssemblyInfo.cs
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.csproj.CoreCompileInputs.cache
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.dll
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\refint\Template.domain.dll
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\Template.domain.pdb
+C:\Balta.io\template\Template.Domain\obj\Debug\net6.0\ref\Template.domain.dll
