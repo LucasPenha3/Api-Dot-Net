@@ -11,8 +11,8 @@ ARQUITETUTA e PADRÕES
  - Clean Code / SOLID
  - DTO / Entidades
  - Repository Pattern
- - Testes unitários (entrada, fake repositories, red green refactor, etc)
- - Authentication / Authorization via JWT do google
+ - Testes unitários (entrada, fake repositories, rgr, etc)
+ - Authentication / Authorization via JWT
  - Design By Contracts / domain notifications
 
 PACOTES
@@ -23,7 +23,7 @@ PACOTES
 
  
 # Configuração inicial:
-A Api conta com autenticação via JWT do Google, mas é possível criar um endpoint para criação do JWT e alterar as configs
+A Api conta com autenticação via JWT do Google, mas é possível criar um endpoint para criação do JWT e alterar as configs.
 
 O Endponit /Healthz é a porta de entrada da API.<br>
 Para inciar os trabalhos com banco de dados basta alterar o arquivo `appsettings.json` adicionando sua ConnectionString.
